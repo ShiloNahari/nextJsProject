@@ -7,6 +7,12 @@ const users = [
     email: 'user@nextmail.com',
     password: '123456',
   },
+  {
+    id: '410544b2-4001-4271-9855-fec4b6a6442b',
+    name: 'Yakir',
+    email: 'yakir@gmail.com',
+    password: '123456',
+  },
 ];
 
 const customers = [
@@ -60,8 +66,8 @@ const customers = [
   },
   {
     id: 'CC27C14A-0ACF-4F4A-A6C9-D45682C144B9',
-    name: 'Amy Burns',
-    email: 'amy@burns.com',
+    name: 'Yakir pro',
+    email: 'yakir@gmail.com',
     image_url: '/customers/amy-burns.png',
   },
   {
